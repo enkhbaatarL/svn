@@ -1,0 +1,5 @@
+[WandiscoSVN]
+name=Wandisco SVN Repo
+baseurl=http://opensource.wandisco.com/centos/6/svn-1.7/RPMS/x86_64/
+enabled=1
+gpgcheck=0
