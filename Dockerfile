@@ -57,7 +57,7 @@ ADD assets/viewvc.conf /etc/viewvc/
 ADD assets/svn_viewvc.conf /etc/httpd/conf.d/
 
 # SVN ACL 설정 파일
-ADD assets/svn_access_file /opt/appdata/svnrepo/
+ADD assets/svn_access_file /opt/appdata/svnrepo/conf/
 
 EXPOSE 80
 
